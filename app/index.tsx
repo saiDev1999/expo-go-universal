@@ -10,6 +10,7 @@ export default function Index() {
       }}
     >
       <Text>Wellcome Sai</Text>
+      <Text>Wellcome Srinivas</Text>
     </View>
   );
 }
